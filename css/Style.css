@@ -1,0 +1,53 @@
+* 
+{
+
+}
+
+#menu 
+{
+	margin-left: 420px;
+}
+
+#menu li a 
+{
+	font-size: 20px;
+
+}
+
+#divuno
+{
+	width: 350px;
+	height: 100px;
+	color: #848484;
+	margin-left: 370px;
+	text-align: center;
+		font-size: 16px;
+
+
+}
+
+.boton
+{
+		margin-left: 480px;
+		width: 100px;
+		height: 35px;
+		background-color: #F79F81;
+		font-size: 12px;
+		border-radius: 5px;
+		color: #FFFFFF;
+		font-weight: bold;
+}
+
+
+#mensaje
+{
+	width: 350px;
+	height: 100px;
+	color: #848484;
+	margin-left: 370px;
+	text-align: center;
+		font-size: 16px;
+
+
+}
+

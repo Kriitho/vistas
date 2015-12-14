@@ -1,0 +1,101 @@
+body
+{
+	background-image: url('../Imagenes/9.jpg');
+
+}
+
+
+
+#contenido
+{
+	background-color: rgba(0,0,0,0.3);
+	border-radius: 5px;
+	width: auto;
+
+}
+
+#dentro 
+{
+	margin: 10px;
+
+}
+
+#titulo
+{
+
+font-family: 'Berlin Sans FB';
+font-weight: 100px;
+font-size: 100px;
+color: #F5ECCE;
+text-align: center;
+}
+
+#footer
+{
+	 background-color: #000;
+	 height: 146px;
+	 width: auto;
+
+
+}
+
+#a  a
+{
+	margin-left: 45px;
+	color: #fff;
+	font-family: 'Bradley Hand ITC';
+	font-size: 24px;
+
+}
+
+#d1c { 
+    width: 450px; 
+    height: 146px; 
+    float:left; 
+    background-color: #000; 
+
+
+
+
+} 
+
+#d1c  a
+{
+	margin-left: 115px;
+	color: #fff;
+	font-family: 'Bradley Hand ITC';
+	font-size: 20px;
+	text-align: center;
+}
+
+#d2c{ 
+    width: 899px; 
+    height: 146px; 
+    margin: auto; 
+    float:left; 
+    background-color: black; 
+
+
+
+
+} 
+#copy
+{
+	font-family: 'Bradley Hand ITC';
+	font-size: 76px;
+	color: #fff;
+	margin-left: 120px;
+}
+
+.escribanos
+{
+	margin-left: 55px;
+}
+
+
+#titulomodales
+{
+	color: black;
+	font-size: 24px;
+	font-weight: 600px;
+}
